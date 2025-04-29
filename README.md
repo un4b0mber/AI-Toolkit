@@ -1,9 +1,3 @@
-# 🤖 AI Toolkit: Dataset Creator & Fine-Tuning in Colab
-
-Welcome to **AI Toolkit** – a powerful duo of tools for creating high-quality datasets using AI and fine-tuning models seamlessly in Google Colab! Whether you're training LLMs or building custom AI applications, this repo is here to simplify your workflow.
-
----
-
 # 🤖 AI Toolkit: Dataset Creator & Fine-Tuner in Colab
 
 Welcome to **AI Toolkit** – a powerful duo of tools for creating high-quality datasets using AI and fine-tuning models seamlessly in Google Colab! Whether you're training LLMs or building custom AI applications, this repo is here to simplify your workflow.
